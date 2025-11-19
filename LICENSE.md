@@ -28,7 +28,14 @@ Disclosure of confidential information is considered Breach of Confidentiality i
 3.1. In all code written with the use of this library, you must mention the library, its author and a link to the library's access repository (kernelstd-access). <br>
 3.2. The source code provided in kernelstd is provided as-is, without warranty of any kind. <br>
 3.3. The source code provided in kernelstd may not be modified, changed or altered in any way, shape or form within separate projects outside of the scope/context of the private repository.
+3.4. In case any of the terms defined by this license are violated, the license may be terminated.
+3.5. The author of the library is to be granted viewing access to any and all variations of the library, any projects containing code derived from the library or any projects linked against the library or assets otherwise covered by this license.
 
-## 4. Notes
+## 4. Termination
+4.1. Upon license termination, your access to license source code or binaries not available to the public will be revoked.
+
+## 5. Notes
 4.1. "Private repository" refers to the kernelstd repository, which contains the source code. <br>
 4.2. "Access repository" refers to the public, kernelstd-access repository which contains this license and a README.
+4.3. Resources covered by this license are provided without warranty of any kind.
+4.4. If any repository hosted on GitHub is bound by this license and violates its terms, we may file for DMCA takedown.
